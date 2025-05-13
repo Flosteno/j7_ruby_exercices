@@ -1,6 +1,6 @@
-# Exercices Ruby du jour 7
+# Ruby exercices day 7
 
-Exercices d'apprentissage sur ruby 
+Learning exercices on ruby
 
 ## Technologies
 
